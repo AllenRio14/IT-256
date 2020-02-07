@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Presidency University </title>
+    </head>
+<body>
+ <div style="background-color:green">
+        <p style="color:white">call us on 888834578</p>
+      <br/>
+     <a href="www.w3schiools.com" style="color:white" target="_blank"> ABOUT US</a>
+     <span>
+<a href="www.blog.com"style="color:white" target="_blank">BLOG </a>
+     </span>
+  <span>   
+ <a href="C:\Users\Nami Chandh\Desktop\Activity 3_files\r3.html"style="color:white" target="_blank">FAQ</a>
+    </span>
+     </div>
+<a href="#address">Go to address</a>
+<h1 align="center"> Activity-3</h1>
+<div style="background-color:yellow">
+<p style="font-size:150%">
+   "Through our research our effort are geared to rpovide means to reduce  and eventually eleminate uncontrolled energyusge through tip suggestons enabling customers to make informed decision on energy conversion"
+</p>
+</div>
+<img src="C:\Users\Nami Chandh\Desktop\Activity 3_files\images\pups.jpg" alt="My pics" border="10" width="27%" height="30%" color="yellow" align="right">
+<u>
+<h1>Our mission</h1>
+</u>
+<p style="font-size:120%"> 
+Our mission at EnergyBots is to make the information on energy cinsumption available and transparent.Today we provide the most actionable data & insight using our produvts and mobile app(eBots). We want to make this data available to as many as possible.
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<div style="background-color:black">
+<center>
+<h1 style="color:white;align:right">About eBots </h1>
+</center>
+<br/>
+<a href="www.wikipedia.com" target="_blank">
+<img src="C:\Users\Nami Chandh\Desktop\Activity 3_files\images\pups.jpg" style="float:right;width:36%;height:19%"></a>
+<ul type="square">
+ <li style="color:white">Energy efficiency indicators</li>
+ <li style="color:white">Remote</li>
+ <ol type="1">
+    <li style="color:white"> on </li>
+     <li style="color:white">off</li>
+   </ol>
+ <li style="color:white"> Excess Energy Consumption Alert</li>
+ <li style="color:white"> Customizble app to map your home and appliances</li>
+  </ul>
+</div>
+<p>
+<a name="address">#4693 Ramamurthi Nagar <br/>ITI main road KR Puram<br/> Bangalore Pin-561773<br/></a></p>
+</body>
+</html>
